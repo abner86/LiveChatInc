@@ -1,2 +1,2 @@
 # LiveChatInc
-Android and iOS LiveChatInc Xamrin binding
+Android and iOS LiveChatInc Xamarin binding
